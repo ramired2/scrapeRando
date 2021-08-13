@@ -1,0 +1,110 @@
+[
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3ultSl5CgXURgu6UjuLnbd"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3ultSl5CgXURgu6UjuLnbd",
+        "id": "3ultSl5CgXURgu6UjuLnbd",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a498cf792773aa474d779dd8",
+                "width": 640
+            }
+        ],
+        "name": "d2",
+        "owner": {
+            "display_name": "_ramirez",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/_ramirez"
+            },
+            "href": "https://api.spotify.com/v1/users/_ramirez",
+            "id": "_ramirez",
+            "type": "user",
+            "uri": "spotify:user:_ramirez"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "Miw4OTAwMjcwMmEwM2RjNTljM2U1NGQwZjEwNDkyOTVkYWNiYTEwMGM5",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3ultSl5CgXURgu6UjuLnbd/tracks",
+            "total": 10
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3ultSl5CgXURgu6UjuLnbd"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0brZe9voOPUysDkWVCOATf"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0brZe9voOPUysDkWVCOATf",
+        "id": "0brZe9voOPUysDkWVCOATf",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000bebb1c6568d1c7cb43150ddd775f",
+                "width": null
+            }
+        ],
+        "name": "RM's Favorite Tracks",
+        "owner": {
+            "display_name": "BTS",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/bighitktm"
+            },
+            "href": "https://api.spotify.com/v1/users/bighitktm",
+            "id": "bighitktm",
+            "type": "user",
+            "uri": "spotify:user:bighitktm"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTgzLGMxZWZhZjYzNTIwNDU1ZWU4OTE0ZDQ0OWI3YTQ4MzZmYmQzOWU5ZTg=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0brZe9voOPUysDkWVCOATf/tracks",
+            "total": 21
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0brZe9voOPUysDkWVCOATf"
+    },
+    {
+        "collaborative": false,
+        "description": "Radio RMF FM 2021 | Poplista 2021 | Najlepsza Muzyka | Polskie Radio | Eska | Czw\u00f3rka Polskie Radio | Z\u0142ote przeboje | Radio ZET | TOK Fm | Eska | Najlepsze Polskie Piosenki | RMF FM | FM RMF | Twoja Najlepsza Muzyka | Polskie Hity | 4FUN TV | Impreza | Polskie Hity | Super Utwory | Hop B\u0119c | Pop",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5VkjHySHL4nJH1PQTR27tJ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5VkjHySHL4nJH1PQTR27tJ",
+        "id": "5VkjHySHL4nJH1PQTR27tJ",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000bebb9122a372398bdb23e993ca0d",
+                "width": null
+            }
+        ],
+        "name": "RMF FM 2021 \ud83d\udcfb Poplista 2021 \ud83d\udcfb Radio RMF FM",
+        "owner": {
+            "display_name": "hotvibesnetwork",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/o6yyusoco4peojmtoq7w1q5vz"
+            },
+            "href": "https://api.spotify.com/v1/users/o6yyusoco4peojmtoq7w1q5vz",
+            "id": "o6yyusoco4peojmtoq7w1q5vz",
+            "type": "user",
+            "uri": "spotify:user:o6yyusoco4peojmtoq7w1q5vz"
+        },
+        "primary_color": null,
+        "public": null,
+        "snapshot_id": "MTQxNyw4ZjhhODQ0ZWJjOTBiOTdhNGVlZjhjMWVhMThiOTgwODAxODY3YzAw",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5VkjHySHL4nJH1PQTR27tJ/tracks",
+            "total": 160
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5VkjHySHL4nJH1PQTR27tJ"
+    }
+]

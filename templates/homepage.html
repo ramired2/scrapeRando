@@ -1,0 +1,15 @@
+<h1> quick guide </h1>
+<p>There are two services you can use</p>
+<ul>
+    <li>Get spotify n amount of playlists based on a search word</li>
+    <li>Get n amount of top tracks based on any given country</li>
+</ul>
+<p>Spotify playlists: "/info/playlist/WORD/SIZE"</p>
+<p>Top tracks from a given country: "/info/top/COUNTRY ABBREVIATION/SIZE"</p>
+<p>The data will be contained by the tag "p" that has a class of "data"</p>
+<p>Countries available and their abbreviations below</p>
+<ul>
+    {% for country in countries %}
+    <li>{{ country.country }} ---> {{country.abbreviation}} </li>
+    {% endfor %}
+</ul>
